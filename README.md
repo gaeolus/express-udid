@@ -4,12 +4,6 @@
 
 ### 项目截图:
 
-<img src="https://github.com/liuxuanqiang/Express_MongoDb_Demo/blob/master/screenshots/screenshots-01.jpg" width="960px">
-    
-<img src="https://github.com/liuxuanqiang/Express_MongoDb_Demo/blob/master/screenshots/screenshots-02.jpg" width="960px">
-
-<img src="https://github.com/liuxuanqiang/Express_MongoDb_Demo/blob/master/screenshots/screenshots-03.jpg" width="960px">
-
 ### 开发环境：
 Node.js + MongoDB + Express 4.x
 
