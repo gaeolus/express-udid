@@ -1,6 +1,6 @@
-# 使用 Express 4.x + MongoDB 实现增删改查
+# 使用 Express 4.x + MongoDB 实现UDI DB增删改查
 ### 项目说明：
-使用 Express 4.x + MongoDB 实现增删改查等Web应用最基本的功能
+使用 Express 4.x + MongoDB 实现UDI DB增删改查及PAI等首营资料电子交换平台最基本的功能
 
 ### 项目截图:
 
@@ -25,4 +25,4 @@ Node.js + MongoDB + Express 4.x
 * ejs模板引擎的基本使用：http://www.cnblogs.com/xuanhun/p/3922847.html
 
 ### 项目地址：
-https://github.com/liuxuanqiang/Express-MongoDB
+https://github.com/
